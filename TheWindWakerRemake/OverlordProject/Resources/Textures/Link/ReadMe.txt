@@ -10,7 +10,7 @@ https://www.models-resource.com/gamecube/legendofzeldathewindwaker/model/417/
 Credits
 ========
 Leloux (https://www.models-resource.com/submitter/Lexou/) 
-The Outset Island textures were ripped by Lexoux, thank you for that!
+Link textures were ripped by Lexoux, thank you for that!
 
 
 ===========
