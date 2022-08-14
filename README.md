@@ -12,6 +12,8 @@ This project tries to recreate some elements of Outset island of the game
 Be sure to run  **Set-GP2_LIBS-EnvVariable.bat** before building the project.
 This can be found in the GP2_Libraries folder
 
+Afterwards you can simply open the .sln file, select the Overlord project as main project and build.
+
 # Copy right
 As this simply is a remake for educational purposes, copyright of the assets still belong to Nintendo.
 The base of the Overlord Engine was given by Digital arts and Entertainment for the course Graphics programming
