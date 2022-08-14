@@ -1,4 +1,4 @@
-# The Legend of Zelda The Wind Waker Remake
+# The Legend of Zelda: The Wind Waker Remake
 In context of the course Graphics Programming 2, I received the opportunity to recreate any game of choice. 
 To get a head start all students received a base engine called the Overlord Engine. 
 This engine, however, lacked a lot of graphical functionalities which I had to implement myself.
